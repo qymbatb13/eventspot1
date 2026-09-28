@@ -1,0 +1,15 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+*.iml
+.idea/
+
+# Local run configs (may contain your Ticketmaster key)
+.vscode/launch.json
+
+# OS
+.DS_Store
