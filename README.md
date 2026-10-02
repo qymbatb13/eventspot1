@@ -7,8 +7,12 @@
   [Ticketmaster Discovery API](https://developer.ticketmaster.com/) с бесплатным ключом.
 - Вход и регистрация (локально, на устройстве).
 
-> Скриншот / GIF: добавь сюда запись экрана после первого запуска — это первое,
-> на что смотрят рецензенты.
+> <img width="1080" height="2400" alt="Screenshot_1790937478" src="https://github.com/user-attachments/assets/764ddf25-8ee4-4bca-be93-6e5a4b29dab7" />
+<img width="1080" height="2400" alt="Screenshot_1790937424" src="https://github.com/user-attachments/assets/d7118849-5078-4f61-aecd-8cdfc3e32b7a" />
+<img width="1080" height="2400" alt="Screenshot_1790937415" src="https://github.com/user-attachments/assets/f1298542-2f0a-4eca-aca3-4842aad2a6ca" />
+<img width="1080" height="2400" alt="Screenshot_1790937356" src="https://github.com/user-attachments/assets/a22fe49a-2c5a-4e9d-9990-e2ec265e989e" />
+<img width="1080" height="2400" alt="Screenshot_1790937347" src="https://github.com/user-attachments/assets/5b7c7ce1-4104-4ea5-b7dc-52c3d3ad863c" />
+
 
 ## Возможности
 
